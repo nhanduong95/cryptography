@@ -1,0 +1,20 @@
+1. Most frequently-used char (\n): space
+2. 2nd frequently-used char (P): e
+3. 1-letter word: ( (30 times) ==> ) = a
+4. Most frquently 3-letter word: OLe --> the ==> O = t; L = h
+5. ~~ er~~ ==> space = h
+   Jhat --> what ==> J = w
+6. whH --> who ==> H = o
+7. aEter --> after ==> E = f
+   a2C; a2?; a2 --> any/and; an ==> 2 = n
+8. after a terr6YAe aUU6Cent --> after a terrible accident ==> 6 = i; Y = b; A = l; U = c
+9. woFan --> woman ==> F = m
+   followin. --> following ==> . = g
+   belie:e --> believe ==> : = v
+   )ncertain --> uncertain ==> ) = u
+10.that he <space>aved her life and that the world out<space>ide i<space> uninhabitable
+    ==> space = s
+   ?oung woman --> young woman ==> ? = y
+12.that she must esca5e at any costK ==> 5 = p; K = .
+13.young woman wa3es up after a terrible accident to find that sheGs loc3ed in a cellar
+   ==> 3 = k; G = '

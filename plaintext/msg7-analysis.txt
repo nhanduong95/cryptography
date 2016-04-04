@@ -1,0 +1,43 @@
+1. most-frequently character: space --> space
+2. 2nd most-frequently char (59 times): B --> e
+3. 3-char word: 
+	-5e (4 times) 
+	R)e
+   2-char word: 
+	"L 
+	-I (3 times)
+	$e (2 times) 
+	5e (4 times)
+   1-char word: R (2 times, freq: 43) --> maybe A
+
+4. "L --> is	h"L --> his
+   heEs --> he's
+   9hIEs --> 9hI's
+   ==> E = '
+   !aths --> paths ==> ! = p
+   a)e --> are ==> ) = r
+   his i))esisti$Ne --> his irresistible ==> $ = b, N = l
+
+5. his irresistible 1harPK --> his irresistible charm - ==> 1 = c, P = m, K = ,
+   his sisterK a therapistK --> his sister- a therapist- ==> K = ,
+   1harlie --> Charlie ==> 1 = c
+   he belieZes --> he believes ==> Z = v
+   bet hiP that --> bet him that ==> P = m
+
+6. he sticTs tI --> he sticks to ==> T = k, I = o
+   tries tI tell him --> tries to tell him ==> I = o
+   his best ,rie Xs bet him that --> his best friends bet him that ==> , = f; \n = n; X = d
+   the per,ect matchYYcharlie is a plaJbIJ --> the perfect match
+						charlie is a playboy
+					==> , = f; Y = \n; J = y; I = o
+
+7. he crosses paths 9ith the bea'tif'l --> he crosses paths wit the beautiful 
+					==> 9 = w; ' = u
+   b't soon --> but soon ==> ' = u
+   9hether --> whether
+8. even thouWh --> even though ==> W = g
+   turninW on --> turning on ==> W = g
+   0 = .
+   now charlie is MuestioninW --> now charlie is questioning ==> M = q, W = g
+   want more than Hust a one niWght stand --> want more than just a one night stand ==> H = j, W = g
+9. coa)ex --> coaxes ==> ) = x
